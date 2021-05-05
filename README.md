@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to cook and read books
 
 ### Connect with me:
-[<img align="left" alt="SrijaKon | LinkedIn" width="22px" src="https://www.linkedin.com/feed/"/>][linkedin]
+<img align="left" alt="SrijaKon | LinkedIn" width="22px" src="https://www.linkedin.com/feed/"/>linkedin
 
 <details>
   <summary>:zap: GitHub Stats</summary>
