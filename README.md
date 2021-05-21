@@ -6,10 +6,8 @@
 - 🌱 I’m currently learning Web Development at _nology
 - Currently working on my first Portfolio     Project
 - 2021 goals - To become full time Web Developer 
-- ⚡ Fun fact: I love to cook and read books
+- 
 
-### Connect with me:
-<img align="left" alt="SrijaKon | LinkedIn" width="22px" src="https://www.linkedin.com/feed/"/>linkedin
 
 <details>
   <summary>:zap: GitHub Stats</summary>
